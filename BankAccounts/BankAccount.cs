@@ -8,6 +8,6 @@ namespace BankAccounts
 {
     class BankAccount
     {
-
+        System.Console.WriteLine("test");
     }
 }
